@@ -1,5 +1,5 @@
-# The Potatoe Launcher
-The launcher for the LotROPS Project
+# ![9c11e406-8fbd-4be7-a1b5-4db95ef4e9da](https://user-images.githubusercontent.com/42632810/174441817-590ac13b-c6ab-4930-a509-3566e56ac971.png)
+The launcher for the LotROPS Project games.
 
 
 # About the Potatoe Launcher
